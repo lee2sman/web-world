@@ -1,0 +1,73 @@
+			body {
+				background-color: mintcream;
+				padding: 3rem;
+				color: purple;
+				font-family: Helvetica, sans-serif;
+			}
+			h1 {
+				margin: 0;
+				margin-bottom: 1em;
+			}
+			h3 {
+				color: pink;
+			}
+
+			main {
+				max-width: 60ch;
+				padding: 1em;
+				border: 5px dashed lightgreen;
+				margin-bottom: 2em;
+				margin: 0px auto 0px auto;
+			}
+			.card {
+				display: flex;
+			}
+			.card > p {
+				width: auto;
+				height: auto;
+				font-size: 2em;
+				margin: 2em;
+			}
+			.intro  {
+color: #430D66;
+				width: auto;
+				height: auto;
+				font-size: 1.1em;
+				margin: 2em;
+				background-color: lightpink;
+				padding: 2px;
+				opacity: 0.45;
+				border-radius: 3px;
+			}
+
+			img {
+				width: 200px;
+				height: 200px;
+				margin-bottom: 5vh;
+			}
+			a:link {
+				text-decoration: none;
+			}
+
+			a:visited {
+				text-decoration: none;
+			}
+
+			a:hover {
+				text-decoration: none;
+			}
+
+			a:active {
+				text-decoration: none;
+			}
+
+			nav ul li {
+				list-style-type: none;
+			}
+
+			footer {
+			  background-color: #F4DDF0;
+			  border-radius: 5%;
+			  padding: 3px;
+                              opacity: 0.4;
+			}
