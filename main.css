@@ -69,15 +69,20 @@ nav ul li {
 }
 
 footer {
+	color: #430d66;
 	background-color: #f4ddf0;
-	border-radius: 5%;
-	padding: 3px;
-	opacity: 0.4;
+	width: auto;
+	height: auto;
+	font-size: 1.1em;
+	margin: 2em;
+	padding: 10px;
+	opacity: 0.45;
+	border-radius: 3px;
 }
 @media only screen and (max-width: 600px) {
 	body {
 		padding: 0;
-		margin: ;
+		margin: 4vw;
 		width: 85vw;
 	}
 	p {
@@ -87,5 +92,21 @@ footer {
 		width: 85vw;
 		padding: 2px;
 		margin: 2px;
+	}
+
+	.card {
+		display: inline-block;
+		margin-left: 2em;
+	}
+	.card > p {
+		font-size: 1em;
+		margin: 0px 0px 30px 0px;
+	}
+	img {
+		margin-bottom: 5px;
+	}
+	.intro,
+	footer {
+		margin: 0;
 	}
 }
