@@ -67,7 +67,9 @@ a:active {
 nav ul li {
 	list-style-type: none;
 }
-
+li {
+  line-height: 1.7em;
+}
 footer {
 	color: #430d66;
 	background-color: #f4ddf0;
