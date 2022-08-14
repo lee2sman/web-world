@@ -1,0 +1,5 @@
+# 👩‍💻 Web World and Cooperative Computing
+
+> an introduction for artists and creative practitioners and those new to building websites, or a radical re-introduction to those with previous experience. The workshop will begin with an examination of the web’s history, including early browsers and net.art to contemporary approaches to web design and creating online space. The workshop will start with the basics of creating a website with HTML and CSS, and work with participants to construct their own online homes. Along the way we’ll cover semantic HTML, brutalist design, hosting, resilient and simple approaches to creating long-lasting spaces, and new protocols and online communities exploring web minimalism, permacomputing and the ‘slow web’ movement. 
+
+Created as part of Web World and Cooperative Computing workshop and Freewrite jam session, for FluxatARoS 2022: Residency in Denmark. Workshops led by Lee Tusman of Flux Factory and Anders Visti of Code & Share[], Aarhus. Held at ARoS Public at ARoS Art Museum and at Mixr . 
