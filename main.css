@@ -1,3 +1,6 @@
+:root {
+  --ul-bullet: "=> ";
+}
 body {
 	background-color: mintcream;
 	padding: 3rem;
@@ -64,11 +67,16 @@ a:active {
 	text-decoration: none;
 }
 
-nav ul li {
+nav, ul, li {
 	list-style-type: none;
 }
 li {
   line-height: 1.7em;
+}
+
+li::before {
+  color: limegreen;
+  content: var(--ul-bullet);
 }
 footer {
 	color: #430d66;
